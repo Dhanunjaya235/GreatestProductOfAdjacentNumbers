@@ -46,6 +46,8 @@
                 number = Math.Floor(number / 10);
             }
             Console.WriteLine("Returning Product");
+            Console.WriteLine("Returning Product");
+            Console.WriteLine("Returning Product");
             return product;
         }
     }
